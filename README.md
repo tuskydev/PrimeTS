@@ -1,17 +1,16 @@
-# MIT 6.00.2x Solo Project 
-### A repo made to test Semantic-UI-React's NPM that has a popup modal that display's necessary info.
+# "The Last Algorithms Course You'll Need" with ThePrimeagen's Frontendmasters Course Solo Project 
+### A GitHub repository created to deepen my understanding and learning in areas like Big(O) analysis, complex algorithms, data structures such as stacks and trees, and graph traversal techniques like BFS and DFS.
 
-### Things learned:
-* Learned ternary digits: A new way to count with 0, 1, and 2!
-* Optimized code using dynamic programming
-* Learned how to combine two personal Solo Projects to make one dynamic project!
+### Key Takeaways:
+- Advancing algorithmic techniques for problem-solving
+- In-depth understanding of Big(O) notation and its application
+- Mastering of data structures and graph traversal algorithms
 
-### Overall, a productive project which allowed for better understanding of Pop Up Modals.
+### Overall, this gave me comprehensive knowledge in advanced algorithms, Big(O) analysis, and data structures, providing a strong foundation for software development and problem-solving.
 
 ## Preview of work done:
-### Using ternary digits to find all permutations for two bags for a list of **N** length! 
-![image](https://github.com/tuskydev/EXAMPLE-README-SOLO/assets/52723004/b21d0299-416d-479c-a9db-002a4a1989f2)
-
+### Image of Pop-up-Bar displaying dynamic info and picures
+![image](https://github.com/tuskydev/EXAMPLE-README-SOLO/assets/52723004/de13c388-6a9c-4a6b-9e84-487e5552207c)
 
 ### Image of the Pop-up-Bar's integrated and dynamic Carousel 
 ![image](https://user-images.githubusercontent.com/52723004/93537444-7d4e3f00-f919-11ea-94d4-43ab6a3205a9.png)
